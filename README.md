@@ -10,8 +10,6 @@ OpenJDK 64-Bit Server VM Temurin-11.0.12+7 (build 11.0.12+7, mixed mode)
 ------------------------------------------------------------
 Gradle 6.9.1
 ------------------------------------------------------------
-Build time:   2021-08-20 11:15:18 UTC
-Revision:     f0ddb54aaae0e44f0a7209c3c0274d506ea742a0
 Kotlin:       1.4.20
 Groovy:       2.5.12
 Ant:          Apache Ant(TM) version 1.10.9 compiled on September 27 2020
