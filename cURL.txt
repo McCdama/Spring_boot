@@ -1,0 +1,5 @@
+check the terminal: Get-Command curl
+if the output: curl -> Invoke-WebRequest --> than use the following to make the post request: (curl.exe not just curl)
+
+*** curl.exe -d name=admin -d email=admin@admin.com http://localhost:8080/demo/all ***
+*** curl.exe http://localhost:8080/demo/all ***
