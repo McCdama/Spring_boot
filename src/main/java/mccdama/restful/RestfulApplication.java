@@ -11,3 +11,9 @@ public class RestfulApplication {
 	}
 
 }
+
+// ------------GRADLE------------
+ // Run: ./gradlew bootRun
+ 
+ // Build: ./gradlew build
+ // Run the JAR file: java -jar build/libs/restful-0.0.1-SNAPSHOT.jar
